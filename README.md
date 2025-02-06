@@ -13,3 +13,6 @@ This will be my playground for the smolagents library from huggingface.
  Wow. Ran the code in Quick_Demo.ipynb and it just works! 
 
  6) pip install 'smolagents[litellm]'
+ 7) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+ 8) pip install 'smolagents[transformers]'
+ 

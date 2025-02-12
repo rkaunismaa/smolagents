@@ -41,3 +41,5 @@ OK Nice! I was able to get the chromedriver to work with Brave. I was able to ru
 ## Wednesday, February 12, 2025
 
 Starting to go through the [Hugging Face Agents Course](https://huggingface.co/agents-course)
+
+10) pip install sqlalchemy --upgrade

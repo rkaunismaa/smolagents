@@ -38,3 +38,6 @@ OK. I downloaded 133.0.6943.53 of the Chromedriver and it is incompatible with t
 
 OK Nice! I was able to get the chromedriver to work with Brave. I was able to run the code in the Quick_Demo.ipynb file.
 
+## Wednesday, February 12, 2025
+
+Starting to go through the [Hugging Face Agents Course](https://huggingface.co/agents-course)

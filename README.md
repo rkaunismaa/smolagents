@@ -43,3 +43,6 @@ OK Nice! I was able to get the chromedriver to work with Brave. I was able to ru
 Starting to go through the [Hugging Face Agents Course](https://huggingface.co/agents-course)
 
 10) pip install sqlalchemy --upgrade
+11) pip install langchain langchain-community --upgrade
+12) pip install datasets --upgrade
+13) pip install rank_bm25 --upgrade

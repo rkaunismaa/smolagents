@@ -46,3 +46,7 @@ Starting to go through the [Hugging Face Agents Course](https://huggingface.co/a
 11) pip install langchain langchain-community --upgrade
 12) pip install datasets --upgrade
 13) pip install rank_bm25 --upgrade
+
+Hmm interesting! To run the code in multiagent.ipynb, I had to upgrade smolagents!
+
+14) pip install smolagents --upgrade
